@@ -1,0 +1,8 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="de">locale/boxycoin_de.qm</file>
+        <file alias="en">locale/boxycoin_en.qm</file>
+        <file alias="uk">locale/boxycoin_uk.qm</file>
+        <file alias="uk">locale/boxycoin_ru.qm</file>
+    </qresource>
+</RCC>
